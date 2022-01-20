@@ -4,7 +4,7 @@
 To execute this script, follow the steps below.
 
 
-git clone https://github.com/d0wr1k/linux/blob/SSH-Fedora-RHLE-CENTOS/trocar-porta-fedora-selinux.sh
+git clone https://github.com/d0wr1k/linux.git
 cd SSH-Fedora-RHLE-CENTOS
 chmod +x trocar-porta-fedora-selinux.sh
 ./trocar-porta-fedora-selinux.sh
