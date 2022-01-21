@@ -8,13 +8,13 @@
 
 - cd linux
 
-- chmod +x trocar-porta-fedora-selinux.sh
+- chmod +x trocar-portaSSH-fedora-selinux.sh
 
-- ./trocar-porta-fedora-selinux.sh
+- ./trocar-portaSSH-fedora-selinux.sh
 
 #*If you want to change the port, you will need to change the bash*
 
-- nano trocar-porta-fedora-selinux.sh
+- nano trocar-portaSSH-fedora-selinux.sh
 
 - sudo semanage port -a -t ssh_port_t -p tcp YOURPORT
 
