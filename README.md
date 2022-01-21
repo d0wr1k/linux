@@ -4,7 +4,7 @@
 #*To execute this script, follow the steps below.*
 
 
-- git clone https://github.com/d0wr1k/linux.git
+- git clone https://github.com/d0wr1k/linux
 
 - cd linux
 
