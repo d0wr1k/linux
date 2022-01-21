@@ -6,7 +6,7 @@
 
 - git clone https://github.com/d0wr1k/linux.git
 
-- cd SSH-Fedora-RHLE-CENTOS
+- cd linux
 
 - chmod +x trocar-porta-fedora-selinux.sh
 
