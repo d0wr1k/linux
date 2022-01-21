@@ -21,3 +21,5 @@
 - sudo firewall-cmd --add-port=YOURPORT/tcp --permanent
 
 - netstat -tunl | grep YOURPORT
+- sed -i 's/22/YOURPORT/g' /etc/ssh/sshd_config
+
